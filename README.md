@@ -11,7 +11,9 @@
 - Check `package.json` to see all installed packages
 
 Run this command to start coding your project directly
-```git clone https://github.com/asaber3030/nextjs-project-starter.git```
+```bash 
+git clone https://github.com/asaber3030/nextjs-project-starter.git
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
